@@ -2,7 +2,7 @@
 <p align="center"><br>
   <samp>
     <br>
-    Hallo
+    It doesn't matter how slowly you learn, the important thing is that you don't stop
     <br>
   </samp>
 </p>
