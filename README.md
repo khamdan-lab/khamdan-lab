@@ -20,23 +20,5 @@
 [![Arduino](https://img.shields.io/badge/Arduino-005c5f?style=flat&logo=arduino&logoColor=white)](https://arduino.cc/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
   
-<details open align="center">
-   <summary>════ Stats ════</summary>
-     <br>
-     <table>
-   <td width="40%" valign="top">
-    <p align="center">
-       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamdan-lab&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </p>
-   </td>
-   <td width="40%" valign="top">
-     <p align="center">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=khamdan-lab&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-     </p>
-  </td>
-</table>
 
-  </samp>
-  </p>
-</details>
 <br>
