@@ -2,7 +2,7 @@
 <p align="center"><br>
   <samp>
     <br>
-    It doesn't matter how slowly you learn, the important thing is that you don't stop
+    Hello, my name is Khamdan Farizqi. I come from Cirebon, West Java, Indonesia. I graduated from Indramayu State Polytechnic. Currently I am looking for work and ready to     live wherever the office is.Hello, my name is Khamdan Farizqi. I come from Cirebon, West Java, Indonesia. I graduated from Indramayu State Polytechnic. Currently I am       looking for work and ready to live wherever the office is.
     <br>
   </samp>
 </p>
