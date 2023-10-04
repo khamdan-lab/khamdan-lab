@@ -2,8 +2,7 @@
 <p align="center"><br>
   <samp>
     <br>
-    Hello, my name is Khamdan Farizqi. I come from Cirebon, West Java, Indonesia. I graduated from Indramayu State Polytechnic. Currently I am looking for work and ready to     live wherever the office is.Hello, my name is Khamdan Farizqi. I come from Cirebon, West Java, Indonesia. I graduated from Indramayu State Polytechnic. Currently I am       looking for work and ready to live wherever the office is.
-    <br>
+    Hello, my name is Khamdan Farizqi. I come from Cirebon, West Java, Indonesia. I graduated from Indramayu State Polytechnic. I am a web developer looking for experience working in the web development field. My main focus at the moment is to become a web developer where I can apply my knowledge and skills.
   </samp>
 </p>
   <samp>
